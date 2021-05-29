@@ -1,0 +1,55 @@
+body{
+
+    height: 100%;
+    margin: 0px 5px;
+    background-color: rgb(10,50,300) ;
+    color:white
+
+
+}
+
+a{
+    color: aliceblue;
+
+}
+
+
+button{
+
+    color: aquamarine;
+    border-color:burlywood;
+    border-radius: 3px;
+    background-color: coral;
+}
+
+fieldset{
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: 3px 5px rgba(0,15,8,6);    
+
+}
+
+form{
+margin: 5px;
+padding: 5px;
+
+}
+
+
+main{
+    display:flex; flex-direction: row;
+    margin: 0px, 5px;
+
+}
+
+#esquerda{
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+}
+
+#direita{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+}
