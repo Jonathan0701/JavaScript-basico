@@ -11,7 +11,7 @@ let letra = 'Java';
 let numero1 = 10, numero2 = 25;
 
 // Operadores
-/*
+
 letra = numero1+numero2;
 
 console.log(letra);
@@ -34,7 +34,7 @@ letra = "10";
 
 console.log(numero1==letra);
 console.log(numero1===letra);
-*/
+
 
 
 if (numero1 == letra)
